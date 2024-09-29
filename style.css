@@ -1,0 +1,19 @@
+body { 
+    background-color: darkslategrey !important;
+}
+#div { 
+    background: #000;
+    height: 400px;
+    width: 400px;
+}
+.center {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+#row-id { 
+    visibility: hidden;
+}
